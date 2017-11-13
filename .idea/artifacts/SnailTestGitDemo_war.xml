@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SnailTestGitDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SnailTestGitDemo.war">
+      <element id="artifact" artifact-name="SnailTestGitDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
